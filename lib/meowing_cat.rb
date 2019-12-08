@@ -3,7 +3,6 @@ class Cat
  def meow
    puts "meow"
  end
-end 
 maru = Cat.new
 maru.name = "Maru"
  puts maru.name
