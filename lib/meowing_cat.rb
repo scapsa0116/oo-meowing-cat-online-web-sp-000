@@ -8,4 +8,4 @@ maru = Cat.new
 maru.name = "Maru"
  puts maru.name
 
- 
+ end
